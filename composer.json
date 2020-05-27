@@ -1,0 +1,21 @@
+{
+    "name": "vaneves/pipeline",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Van Neves",
+            "email": "vaneves@vaneves.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Vaneves\\Pipeline\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.1",
+        "league/pipeline": "^1.0"
+    }
+}
