@@ -1,6 +1,6 @@
 <?php 
 
-namespace Vaneves\Pipeline;
+namespace Vaneves\Tosko;
 
 use League\Pipeline\Pipeline as LeaguePipeline;
 
